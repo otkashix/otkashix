@@ -26,7 +26,7 @@
 # Contact
 <p align="left">
 <a href="https://discord.com/channels/@me/211553639947436033"><img src="https://creamostuvideo.com/wp-content/uploads/2021/05/discord-logo.png" alt="Discord" width="36" height="36"></a>
-<a href="(mailto:ivandelter@outlook.com)"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="E-mail" width="36" height="36"></a>
+<a href="mailto:ivandelter@outlook.com"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="E-mail" width="36" height="36"></a>
 </p>
 <!---
 otkashix/otkashix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
