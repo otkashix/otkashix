@@ -1,5 +1,5 @@
 # About Me
-* 👋 Hi, I’m Iván Delgado, from Spain, I'm 21 years old and I speak spanish, english and basque
+* 👋 Hi, I’m Iván Delgado, from Spain, I'm 22 years old and I speak spanish, english and basque
 * 👀 I’m interested in Web Development, Videogames and Puzzles
 * 🧠 I'm learning Front-end and Back-end Web Development
 
